@@ -117,10 +117,6 @@ The change will stop `RowCount` * 10 iterations from executing.
 
 ## Summary
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-Two conclusions I can draw about the outcomes based on launch date are may has the most successful campaigns and December has the least number of successful campaigns.
-
 - What are the advantages or disadvantages of refactoring code?
 
 There are multiple advantages of refactoring code. One of these advantages is code can be rewritten for efficiency allowing the code to process larger data sets. Another advantage is one can organize the code to make it easier to read. Refactoring code can also have disadvantages. Anytime something is touched there is room for error. If a mistake is made code that was previously working may have to go through large amounts of debugging. Next, refactoring takes time costing the owners of the project money.
